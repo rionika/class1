@@ -5,7 +5,7 @@
 int main(){
 
 
-	string msg = "RRu3HGmyhUBAQfEMBz11W6DEdcheaYAHMT";
+	string msg = "hi, im biginer";
 	
 	//auto nuevo = base64::Cifrar(msg);
 	//cout << "\nEncoded message: " << nuevo<<endl;
