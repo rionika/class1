@@ -7,9 +7,6 @@ int main(){
 
 	string msg = "hi, im biginer";
 	
-	//auto nuevo = base64::Cifrar(msg);
-	//cout << "\nEncoded message: " << nuevo<<endl;
-	
 	auto nuevo = base64::Cifrar(msg);
 	string bs = nuevo; 
 		cout << "\n1st Encoded message:\n" << bs<<endl;
