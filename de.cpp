@@ -12,7 +12,7 @@ int main(){
 //int clave;
 string msg;
 
-	 msg = "VWxKMU0waEAhiWExsb1kZVSkJVaV29saRlRVSjZ2TVRGZVhOa1JGWkdOb1pXRlpRVWhOVkE9PQ==";
+	 msg = "kkjsdkjfksajfksdj==";
 	
 
 	//auto nuevo = base64::Cifrar(msg);
